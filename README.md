@@ -1,7 +1,7 @@
 # 3DDGD: 3D Deepfake Generation and Detection Using 3D Face Meshes
 
 <p align="center">
-<img src="3DDGD_Demo.gif" width="650" height="350" />
+  <img src="3DDGD_Demo.gif" alt="3DDGD Demo" style="max-width: 50%; height: auto;">
 </p>
 
 ---
