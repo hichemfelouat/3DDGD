@@ -1,10 +1,8 @@
 # 3DDGD: 3D Deepfake Generation and Detection Using 3D Face Meshes
 
-<video width="640" height="360" controls>
-  <source src="3DDGD_Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<p align="center">
+<img src="3DDGD_Demo.gif" width="650" height="350" />
+</p>
 
 This is the official PyTorch implementation of **3DDGD**, a project focused on enhancing the security of 3D facial biometric systems by detecting deepfakes in 3D face meshes.
 
