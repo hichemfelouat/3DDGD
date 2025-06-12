@@ -4,6 +4,7 @@
 <img src="3DDGD_Demo.gif" width="650" height="350" />
 </p>
 
+---
 This is the official PyTorch implementation of **3DDGD**, a project focused on enhancing the security of 3D facial biometric systems by detecting deepfakes in 3D face meshes.
 
 Leveraging the unique geometric richness of 3D data over traditional 2D images, **3DDGD** introduces a dataset of real and fake 3D faces, along with advanced deep learning models, including mesh-based multi-layer perceptrons (MLPs), self-attention mechanisms, and TabTransformer architectures, to accurately distinguish authentic identities from forgeries. Our results demonstrate that 3D facial meshes offer a significant advantage in deepfake detection, supporting more secure biometric authentication and virtual identity systems.
