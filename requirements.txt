@@ -1,0 +1,12 @@
+#to install all this requirements
+#`pip install -r requirements.txt
+
+pip install trimesh
+pip install open3d
+pip install libigl
+pip install robust-Laplacian
+
+pip install scipy==1.11.3
+pip install shapely==2.0.3
+pip install pyglet==1.5.27
+pip install mediapipe==0.10.11
