@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### 🚀 Inference
 ```bash
-python inference.py --input_data examples/3d_meshes --model_name Mesh_MLP_MHA --feature_type G0 --is_cropped 0
+python inference.py --input_data examples --model_name Mesh_MLP_MHA --feature_type G0 --is_cropped 0
 ```
 ```bash
 Arguments:
