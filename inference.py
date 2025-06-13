@@ -247,7 +247,7 @@ def main(args):
           ts3 = time.time()
           print("Intrinsic Features ...")
           mesh_gaussian_curvature     = generate_gaussian_curvature(face_mesh)
-          eigen_vectors, eigen_values = generate_cot_eigen_vectors(face_mesh, device, k)
+          eigen_vectors, eigen_values = generate_cot_eigen_vectors(face_mesh, device, 25)
           hks_features                = HKS(eigen_vectors, eigen_values, 25)
 
           vertex_coordinates = np.array(vertex_coordinates, copy=True)
