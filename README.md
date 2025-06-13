@@ -68,6 +68,8 @@ Arguments:
 --is_cropped: Set to 1 if the input meshes are cropped, 0 otherwise
 ```
 
+You can download a free .obj format example file [here](https://www.artec3d.com/3d-models/head).
+
 ---
 ### 🧠 Training
 
