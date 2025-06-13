@@ -50,7 +50,7 @@ To run inference using a pretrained model, follow these steps:
 
 #### 📥 Step 1: Download Pretrained Weights
 
-- Download the pretrained weights from the provided link.
+- Download the pretrained weights from the provided [link](https://www.).
 - Unzip the contents into the `weights/` folder.
 
 #### ▶️ Step 2: Run Inference
