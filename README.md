@@ -10,7 +10,7 @@
 
 ---
 
-<p style="text-align: justify;">
+<p align="justify">
   
 This is the official PyTorch implementation of **3DDGD**, a project focused on enhancing the security of 3D facial biometric systems by detecting deepfakes in 3D face meshes.
 
