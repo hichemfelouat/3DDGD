@@ -103,8 +103,17 @@ External functions are individually acknowledged in their respective files.
 ### 📚 Cite
 
 If you find our work useful for your research, please consider citing the following papers :)
-
-*(citation details here)*
+```bibtex
+@article{felouat20253ddgd,
+  title={3DDGD: 3D Deepfake Generation and Detection Using 3D Face Meshes},
+  author={Felouat, Hichem and Nguyen, Huy H and Yamagishi, Junichi and Echizen, Isao},
+  journal={IEEE Access},
+  volume={13},
+  pages={107429--107441},
+  year={2025},
+  publisher={IEEE}
+}
+```
 
 ### 📬 Contact
 
