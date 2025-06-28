@@ -1,7 +1,7 @@
 # 3DDGD: 3D Deepfake Generation and Detection Using 3D Face Meshes
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](3DDGD_Demo.ipynb)
-[![View Paper](https://img.shields.io/badge/Paper-IEEE%20Access-blue)](https://ieeexplore.ieee.org/document/12345678)
+[![View Paper](https://img.shields.io/badge/Paper-IEEE%20Access-blue)](https://ieeexplore.ieee.org/document/11039631?source=authoralert)
 
 
 <p align="center">
@@ -50,7 +50,7 @@ To run inference using a pretrained model, follow these steps:
 
 #### 📥 Step 1: Download Pretrained Weights
 
-- Download the pretrained weights from the provided [link](https://www.).
+- Download the pretrained weights from the provided [link](https://drive.google.com/file/d/1lVYY5rzaP2FK4SHj38ror8f3LZNDIrU2/view?usp=sharing).
 - Unzip the contents into the `weights/` folder.
 
 #### ▶️ Step 2: Run Inference
